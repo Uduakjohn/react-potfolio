@@ -21,8 +21,7 @@ const Testimonials = () => {
         </p>
         <LineGradient width="mx-auto w-2/5" />
         <p className="mt-10">
-          Here's What People are Saying About My Work. Aliquam aliquet integer
-          ut fames odio in at. At magna ornare dictum lectus.
+          Here's What People are Saying About My Work. 
         </p>
       </motion.div>
 
@@ -42,8 +41,10 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea.
-          </p>
+          we love working with Uduak because she: nails the quality, delivers thoughtfully executed code, and is a pleasure to work with.
+
+In short, we trust her with our most important clients.
+             </p>
         </motion.div>
 
         <motion.div
@@ -60,8 +61,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Aliquam aliquet integer ut fames odio in at. At magna ornare dictum
-            lectus.
+            I love how clean and precised she keeps are code.
           </p>
         </motion.div>
 
@@ -79,7 +79,7 @@ const Testimonials = () => {
         >
           <p className="font-playfair text-6xl">“</p>
           <p className="text-center text-xl">
-            Fames odio in at. At magna ornare dictum lectus.
+            She is deligent and her customer relation service is top-motch.
           </p>
         </motion.div>
       </div>

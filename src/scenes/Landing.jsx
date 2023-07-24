@@ -14,18 +14,19 @@ const Landing = ({ setSelectedPage }) => {
       <div className="basis-3/5 z-10 mt-16 md:mt-32 flex justify-center md:order-2">
         {isAboveLarge ? (
           <div
-            className="relative z-0 ml-20 before:absolute before:-top-20 before:-left-20 before:rounded-t-[400px]
-            before:w-full before:max-w-[400px] md:before:max-w-[600px] before:h-full before:border-2 before:border-blue before:z-[-1]"
+          className="relative z-0 ml-20 before:absolute before:-top-20 before:-left-20 before:rounded-t-[400px]
+          before:w-full before:max-w-[400px] md:before:max-w-[600px] before:h-full before:border-2 before:border-blue before:z-[-1]"
           >
-            <img
+            {/* <img
               alt="profile"
               className="hover:filter hover:saturate-200 transition duration-500 z-10 w-full max-w-[400px] md:max-w-[600px]"
-              src="assets/profile-image.png"
-            />
+              src="assets/udy1.jpg"
+            /> */}
           </div>
         ) : (
           <img
             alt="profile"
+            
             className="z-10 w-full max-w-[400px] md:max-w-[600px]"
             src="assets/profile-image.png"
           />
@@ -46,18 +47,21 @@ const Landing = ({ setSelectedPage }) => {
           }}
         >
           <p className="text-6xl font-playfair z-10 text-center md:text-start">
-            Jane {""}
+            Uduak {""}
             <span
               className="xs:relative xs:text-deep-blue xs:font-semibold z-20 xs:before:content-brush
               before:absolute before:-left-[25px] before:-top-[70px] before:z-[-1]"
             >
-              Esper
+              Sam
             </span>
           </p>
 
           <p className="mt-10 mb-7 text-sm text-center md:text-start">
-            Adipiscing arcu, in aliquam fringilla cursus. Elit arcu elementum
-            viverra malesuada sem ac faucibus dolor. Sagittis scelerisque.
+            I am a Web developer,based in port-harcourt,Nigeria.
+            I have developed many types of projects ranging from chat apps to E-comerce buying and selling platforms.
+            <br></br>
+            <br></br>
+            I am passionate about Creating wonderful and engaging digital experience.
           </p>
         </motion.div>
 

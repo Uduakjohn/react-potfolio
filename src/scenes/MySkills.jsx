@@ -24,8 +24,11 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Aliquam, amet dui feugiat facilisi dui. Aliquam aliquet integer ut
-            fames odio in at.
+            I deliver high quality,robust production code for a diverse array of projects for clients.
+            I provide leadership within team through close collaboration, knowledge shares, and mentorship.
+            <br></br>
+            My Tech stacks are:<br></br>
+            React, React Native, SCSS, Javascript, Typescript, Nodejs, Jquery, MongoDB,HTML
           </p>
         </motion.div>
 
@@ -71,9 +74,9 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            A auctor pharetra hendrerit mattis amet etiam interdum platea. Est
-            morbi porttitor scelerisque fermentum, sagittis non egestas. Amet
-            odio sit sagittis,
+          Collaborated with other student designers and engineers on pro bono projects to create
+new brands, design systems, and websites for organizations in the communit
+ Built and delivered technical solutions according to stakeholder business requirements,
           </p>
         </motion.div>
 
@@ -99,10 +102,8 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-red absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Urna, eget pulvinar dolor cursus volutpat dictum odio. Nec ultricies
-            amet in in neque nibh tortor. Libero sed pretium justo nulla blandit
-            nulla amet habitant iaculis. Iaculis in congue vitae sollicitudin
-            faucibus a
+          Developed, maintained, and shipped production code for client websites primarily using
+            HTML, CSS, Sass, JavaScript, and jQuery
           </p>
         </motion.div>
         {/* IMAGINATIVE */}
@@ -127,10 +128,8 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-yellow absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            Accumsan eu fringilla nisi, eget. Vitae, eget ut id proin arcu in
-            curabitur. Lectus libero, egestas enim aliquam quis felis amet.
-            Sagittis, amet netus fringilla netus lobortis odio sed platea.
-            Bibendum.
+           Performed quality assurance tests on various sites to ensure cross browser compatibility
+and mobile responsivenes
           </p>
         </motion.div>
       </div>
